@@ -1,0 +1,8 @@
+{
+  "name": "educanet",
+  "label": "Educanet",
+  "description": "For lessons at Educanet Praha: white slides with navy Exo 2 type, the logo's teal, orange and yellow as accents, a navy cover with the white logo.",
+  "author": "Matěj Kůs",
+  "licence": "CSS MIT · Exo 2 OFL 1.1 · brand and logo © Educanet, for the school's own materials",
+  "style": {"accent": "#009AB1", "ink": "#0D1140", "paper": "#FFFFFF", "titleSize": 44, "bodySize": 28, "header": "position"}
+}
