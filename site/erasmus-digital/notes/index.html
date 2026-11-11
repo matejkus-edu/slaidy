@@ -1,0 +1,116 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Beyond the Download: Digital Technologies and AI in Everyday Teaching · notes</title><style>
+  :root{--ink:#14161B;--gray:#585E6B;--faint:#9AA1AE;--line:#E4E6EA;--acc:#4B3FCF}
+  *{box-sizing:border-box}
+  body{margin:0;background:#fff;color:var(--ink);
+    font:15px/1.6 system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+  .wrap{max-width:860px;margin:0 auto;padding:40px 28px 80px}
+  h1{font-size:26px;letter-spacing:-.02em;margin:0 0 4px}
+  .sub{color:var(--gray);margin:0 0 28px;font-size:14px}
+  .sub a{color:var(--acc)}
+  .act{font:600 11px/1 system-ui;letter-spacing:.14em;text-transform:uppercase;color:var(--gray);
+    margin:34px 0 10px;padding-top:14px;border-top:1px solid var(--line);break-before:page}
+  .act:first-of-type{break-before:auto}
+  .s{display:grid;grid-template-columns:52px 1fr;gap:0 16px;padding:14px 0;
+    border-top:1px solid var(--line);break-inside:avoid}
+  .n{font:600 12px/1.7 ui-monospace,SFMono-Regular,monospace;color:var(--faint)}
+  .t{font-size:17px;font-weight:650;letter-spacing:-.01em;margin:0 0 6px}
+  .fig{margin:8px 0 10px;max-width:340px}
+  .fig svg{width:100%;height:auto;display:block;border:1px solid var(--line);border-radius:6px}
+  .note{margin:0;color:#3A404C}
+  .note.none{color:var(--faint);font-style:italic}
+  .key{margin:8px 0 0;padding-left:12px;border-left:3px solid var(--acc);color:var(--gray);
+    font-size:14px}
+  .skip{opacity:.5}
+  .skip .t::after{content:" · hidden";font-weight:400;color:var(--faint);font-size:12px}
+  @media print{
+    .wrap{max-width:none;padding:0}
+    body{font-size:11pt}
+    .s{padding:10px 0}
+    .sub a{color:inherit;text-decoration:none}
+  }
+:root{--d-accent:#009AB1;--d-ink:#0D1140;--d-paper:#FFFFFF;}
+  .fig svg{background:var(--d-paper,#fff)}
+</style></head><body><div class="wrap">
+<h1>Beyond the Download: Digital Technologies and AI in Everyday Teaching</h1>
+<p class="sub">29 slides · speaker notes · <a href="../">the deck</a> ·
+ <a href="../#present">present it</a></p>
+<div class="act">Intro</div>
+<div class="s"><div class="n">001</div><div><p class="t">Beyond the Download</p><p class="note none">no note</p></div></div>
+<div class="s"><div class="n">002</div><div><p class="t">Who is talking to you</p><p class="note">TODO (Matěj): krátké představení školy Educanet — bilingvní gymnázium + ZŠ, kolik žáků, jaké vybavení. Rozhodnout, jestli zmínit H-GLC.</p></div></div>
+<div class="s"><div class="n">003</div><div><p class="t">A quick show of hands</p><p class="note">Warm-up, ruce nahoru. Podle odpovědí přizpůsobit, kde přidat a kde zrychlit — pokud většina AI k přípravě už používá, část 1 a 2 vzít rychleji.</p></div></div>
+<div class="s"><div class="n">004</div><div><p class="t">Four ways technology enters teaching</p><div class="fig"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" font-family="inherit">
+  <g>
+    <rect x="20" y="40" width="270" height="300" rx="18" fill="#0D1140"/>
+    <text x="155" y="110" text-anchor="middle" font-size="64" font-weight="800" fill="#FFFFFF">1</text>
+    <text x="155" y="190" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF">Behind</text>
+    <text x="155" y="228" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF">the scenes</text>
+    <text x="155" y="290" text-anchor="middle" font-size="21" fill="#E1E3EA">admin · assessment</text>
+  </g>
+  <g data-step="1">
+    <rect x="320" y="40" width="270" height="300" rx="18" fill="#009AB1"/>
+    <text x="455" y="110" text-anchor="middle" font-size="64" font-weight="800" fill="#FFFFFF">2</text>
+    <text x="455" y="190" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF">Made</text>
+    <text x="455" y="228" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF">to measure</text>
+    <text x="455" y="290" text-anchor="middle" font-size="21" fill="#FFFFFF">materials · visuals</text>
+  </g>
+  <g data-step="2">
+    <rect x="620" y="40" width="270" height="300" rx="18" fill="#EB5D0B"/>
+    <text x="755" y="110" text-anchor="middle" font-size="64" font-weight="800" fill="#FFFFFF">3</text>
+    <text x="755" y="190" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF">In the students'</text>
+    <text x="755" y="228" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF">hands</text>
+    <text x="755" y="290" text-anchor="middle" font-size="21" fill="#FFFFFF">tools in the lesson</text>
+  </g>
+  <g data-step="3">
+    <rect x="920" y="40" width="260" height="300" rx="18" fill="#FBB900"/>
+    <text x="1050" y="110" text-anchor="middle" font-size="64" font-weight="800" fill="#0D1140">4</text>
+    <text x="1050" y="190" text-anchor="middle" font-size="30" font-weight="700" fill="#0D1140">Thinking</text>
+    <text x="1050" y="228" text-anchor="middle" font-size="30" font-weight="700" fill="#0D1140">through media</text>
+    <text x="1050" y="290" text-anchor="middle" font-size="21" fill="#0D1140">creating to understand</text>
+  </g>
+  <g data-step="4">
+    <line x1="40" y1="410" x2="1140" y2="410" stroke="#6B7085" stroke-width="4"/>
+    <polygon points="1170,410 1135,392 1135,428" fill="#6B7085"/>
+    <text x="40" y="465" font-size="24" fill="#6B7085">saves the teacher's time</text>
+    <text x="1160" y="465" text-anchor="end" font-size="24" fill="#6B7085">changes how students learn</text>
+  </g>
+</svg></div><p class="note"><b>click 1</b> · Mapa celé prezentace. Pořadí jde od toho, co šetří čas učiteli, k tomu, co mění samotné učení.</p><p class="note"><b>click 2</b> · Dvojka: podklady na míru místo stahování.</p><p class="note"><b>click 3</b> · Trojka: žáci s technologií přímo pracují.</p><p class="note"><b>click 4</b> · Čtyřka: tvorba skrze médium — žák látku uchopí tím, že v médiu něco vytvoří.</p><p class="note"><b>click 5</b> · Šipka: čím víc doprava, tím víc jde o pedagogiku, ne o efektivitu.</p></div></div>
+<div class="s skip"><div class="n">005</div><div><p class="t">A lens: SAMR</p><p class="note">Volitelný slajd — SAMR (Puentedura) je mezi Erasmus učiteli známý rámec. Pokud nebude čas, vynechat (je teď schovaný přes Skip).</p><p class="key">The aim is not more technology, but tasks we could not set before.</p></div></div>
+<div class="act">Behind</div>
+<div class="s"><div class="n">006</div><div><p class="t">1 · Behind the scenes</p><p class="note">Úvod do části 1: nejméně „sexy“, ale tady AI ušetří nejvíc času, který pak můžu dát žákům.</p><p class="key">The work nobody sees — and the hours it takes.</p></div></div>
+<div class="s"><div class="n">007</div><div><p class="t">Case study: a gradebook that writes to every student</p><p class="note">TODO (Matěj): screenshot tabulky a mobilní aplikace „Aktivity v hodině“ (anonymizovat jména!). Kolik času to ušetří týdně?</p><p class="key">Students see their results the same day, not at the end of term.</p></div></div>
+<div class="s"><div class="n">008</div><div><p class="t">Case study: this presentation</p><p class="note">Meta-moment: tahle prezentace vznikla přes SlAIdy. TODO (Matěj): přidat, jestli AI používám i na tematické plány / přípravy hodin, a jak.</p><p class="key">You are looking at the case study.</p></div></div>
+<div class="s"><div class="n">009</div><div><p class="t">Other things worth handing over</p><p class="note">TODO (Matěj): vybrat jen to, co opravdu dělám nebo jsem zkoušel; zbytek škrtnout.</p></div></div>
+<div class="s"><div class="n">010</div><div><p class="t">Two rules I keep</p><p class="note none">no note</p></div></div>
+<div class="act">Tailored</div>
+<div class="s"><div class="n">011</div><div><p class="t">2 · Made to measure</p><p class="note none">no note</p><p class="key">Instead of searching for the right material — make it.</p></div></div>
+<div class="s"><div class="n">012</div><div><p class="t">Downloaded vs. made to measure</p><p class="note">Hlavní argument části 2. Bilingvní výuka je silný příklad — materiál v obou jazycích se stejnou terminologií.</p></div></div>
+<div class="s"><div class="n">013</div><div><p class="t">Case study: [TODO infographic / poster]</p><p class="note">TODO (Matěj): sem první vlastní case study — infografika nebo plakát. Obrázek vložit do slajdu (＋ Figure → Picture).</p></div></div>
+<div class="s"><div class="n">014</div><div><p class="t">Case study: [TODO second material]</p><p class="note">TODO (Matěj): druhá case study — pracovní list, kvíz, ilustrace, mapa pojmů…? Pokud žádná další není, slajd smazat.</p></div></div>
+<div class="s"><div class="n">015</div><div><p class="t">How I make it</p><p class="note none">no note</p><p class="key">The teacher is the editor-in-chief.</p></div></div>
+<div class="act">Students Use</div>
+<div class="s"><div class="n">016</div><div><p class="t">3 · In the students&#x27; hands</p><p class="note none">no note</p><p class="key">Students work with the technology themselves — as part of the method.</p></div></div>
+<div class="s"><div class="n">017</div><div><p class="t">Case study: personality questionnaires on their phones</p><p class="note">Napojení na blok Osobnost v PMC: typologie jsou konstrukty, užitečné, ale nikdy nevyčerpají jedinečnost člověka. TODO (Matěj): screenshot aplikace, odkaz/QR.</p><p class="key">The result is a &quot;what&quot;, never a &quot;who&quot;.</p></div></div>
+<div class="s"><div class="n">018</div><div><p class="t">Case study: [TODO phones as voting devices — FAV game]</p><p class="note">TODO (Matěj): hra z FAV na principu Dixitu — nechat, jen pokud proběhla. Jinak nahradit jiným příkladem (např. AI jako tutor / sparring partner přímo v hodině).</p></div></div>
+<div class="s"><div class="n">019</div><div><p class="t">Case study: [TODO AI used directly by students]</p><p class="note">TODO (Matěj): přímé použití AI žáky ve výuce. Pokud nemáš, můžu slajd smazat.</p></div></div>
+<div class="s"><div class="n">020</div><div><p class="t">Ground rules for students</p><p class="note none">no note</p></div></div>
+<div class="act">Creating</div>
+<div class="s"><div class="n">021</div><div><p class="t">4 · Thinking through media</p><p class="note">Nejdůležitější část — sem patří nejvíc času.</p><p class="key">To make something in a medium, you have to understand what you are making it about.</p></div></div>
+<div class="s"><div class="n">022</div><div><p class="t">Why making works</p><p class="note">Tady se opřít o vlastní zázemí — filmová studia a nová média: médium není neutrální kanál, tvaruje obsah. TODO (Matěj): případně citát / odkaz na teorii (McLuhan, konstrukcionismus — Papert?).</p></div></div>
+<div class="s"><div class="n">023</div><div><p class="t">Case study: a concept on film</p><p class="note">TODO (Matěj): zadání z H-PMC. Ideálně pustit 20–30 s ukázky (se souhlasem žáků).</p></div></div>
+<div class="s"><div class="n">024</div><div><p class="t">Case study: prompting a character</p><p class="note">TODO (Matěj): psychosociální rozbor fiktivní postavy — výstup se teprve chystá, doplnit, v jaké fázi je a co od toho čekám.</p></div></div>
+<div class="s"><div class="n">025</div><div><p class="t">More ways to think through media</p><p class="note">TODO (Matěj): vybrat z FAV — krátký film, portfolio na webu. Smazat, co nedává smysl.</p></div></div>
+<div class="s"><div class="n">026</div><div><p class="t">What makes it work</p><p class="note none">no note</p></div></div>
+<div class="act">Closing</div>
+<div class="s"><div class="n">027</div><div><p class="t">Three things to take home</p><p class="note none">no note</p></div></div>
+<div class="s"><div class="n">028</div><div><p class="t">Your turn</p><p class="note">Diskuse s Erasmus učiteli. TODO (Matěj): případně krátká praktická aktivita, pokud bude čas.</p></div></div>
+<div class="s"><div class="n">029</div><div><p class="t">Thank you</p><div class="fig"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 520" font-family="system-ui,sans-serif" role="img" lang="en">
+  <title>These slides</title>
+  <desc>QR code: https://matejkus-edu.github.io/slaidy/erasmus-digital/</desc>
+  <rect x="20" y="10" width="420" height="420" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <g transform="translate(30 20) scale(12.12121)"><path d="M0 0h7v1h-7zM9 0h3v1h-3zM14 0h2v1h-2zM17 0h3v1h-3zM22 0h2v1h-2zM26 0h7v1h-7zM0 1h1v1h-1zM6 1h1v1h-1zM10 1h2v1h-2zM15 1h1v1h-1zM17 1h2v1h-2zM22 1h2v1h-2zM26 1h1v1h-1zM32 1h1v1h-1zM0 2h1v1h-1zM2 2h3v1h-3zM6 2h1v1h-1zM9 2h2v1h-2zM12 2h1v1h-1zM14 2h1v1h-1zM16 2h5v1h-5zM24 2h1v1h-1zM26 2h1v1h-1zM28 2h3v1h-3zM32 2h1v1h-1zM0 3h1v1h-1zM2 3h3v1h-3zM6 3h1v1h-1zM11 3h3v1h-3zM24 3h1v1h-1zM26 3h1v1h-1zM28 3h3v1h-3zM32 3h1v1h-1zM0 4h1v1h-1zM2 4h3v1h-3zM6 4h1v1h-1zM9 4h2v1h-2zM16 4h1v1h-1zM18 4h1v1h-1zM21 4h1v1h-1zM23 4h1v1h-1zM26 4h1v1h-1zM28 4h3v1h-3zM32 4h1v1h-1zM0 5h1v1h-1zM6 5h1v1h-1zM8 5h2v1h-2zM11 5h2v1h-2zM17 5h3v1h-3zM24 5h1v1h-1zM26 5h1v1h-1zM32 5h1v1h-1zM0 6h7v1h-7zM8 6h1v1h-1zM10 6h1v1h-1zM12 6h1v1h-1zM14 6h1v1h-1zM16 6h1v1h-1zM18 6h1v1h-1zM20 6h1v1h-1zM22 6h1v1h-1zM24 6h1v1h-1zM26 6h7v1h-7zM9 7h4v1h-4zM14 7h1v1h-1zM17 7h2v1h-2zM21 7h1v1h-1zM23 7h2v1h-2zM0 8h1v1h-1zM3 8h1v1h-1zM5 8h2v1h-2zM8 8h1v1h-1zM10 8h1v1h-1zM13 8h1v1h-1zM15 8h2v1h-2zM21 8h1v1h-1zM23 8h3v1h-3zM27 8h1v1h-1zM4 9h2v1h-2zM7 9h2v1h-2zM10 9h2v1h-2zM16 9h1v1h-1zM22 9h1v1h-1zM24 9h4v1h-4zM31 9h2v1h-2zM0 10h1v1h-1zM4 10h5v1h-5zM11 10h2v1h-2zM17 10h1v1h-1zM19 10h1v1h-1zM22 10h1v1h-1zM26 10h3v1h-3zM30 10h1v1h-1zM32 10h1v1h-1zM1 11h3v1h-3zM9 11h3v1h-3zM14 11h1v1h-1zM16 11h1v1h-1zM18 11h2v1h-2zM21 11h2v1h-2zM24 11h1v1h-1zM26 11h1v1h-1zM28 11h2v1h-2zM31 11h2v1h-2zM1 12h3v1h-3zM5 12h3v1h-3zM9 12h1v1h-1zM11 12h1v1h-1zM15 12h1v1h-1zM18 12h1v1h-1zM20 12h2v1h-2zM25 12h2v1h-2zM29 12h1v1h-1zM31 12h1v1h-1zM0 13h1v1h-1zM3 13h2v1h-2zM7 13h2v1h-2zM10 13h1v1h-1zM15 13h2v1h-2zM19 13h4v1h-4zM24 13h3v1h-3zM28 13h2v1h-2zM31 13h2v1h-2zM2 14h2v1h-2zM5 14h6v1h-6zM14 14h1v1h-1zM17 14h2v1h-2zM23 14h1v1h-1zM25 14h3v1h-3zM30 14h2v1h-2zM0 15h2v1h-2zM4 15h2v1h-2zM7 15h1v1h-1zM9 15h2v1h-2zM14 15h2v1h-2zM17 15h8v1h-8zM26 15h1v1h-1zM28 15h1v1h-1zM31 15h1v1h-1zM0 16h1v1h-1zM2 16h1v1h-1zM4 16h1v1h-1zM6 16h1v1h-1zM8 16h2v1h-2zM17 16h1v1h-1zM19 16h1v1h-1zM21 16h4v1h-4zM26 16h1v1h-1zM28 16h1v1h-1zM31 16h1v1h-1zM0 17h3v1h-3zM9 17h1v1h-1zM11 17h1v1h-1zM18 17h1v1h-1zM21 17h5v1h-5zM27 17h1v1h-1zM29 17h1v1h-1zM31 17h1v1h-1zM0 18h1v1h-1zM4 18h1v1h-1zM6 18h5v1h-5zM13 18h2v1h-2zM16 18h1v1h-1zM18 18h1v1h-1zM20 18h1v1h-1zM24 18h1v1h-1zM26 18h1v1h-1zM30 18h3v1h-3zM1 19h1v1h-1zM3 19h1v1h-1zM7 19h1v1h-1zM10 19h5v1h-5zM16 19h2v1h-2zM20 19h5v1h-5zM26 19h2v1h-2zM31 19h2v1h-2zM0 20h1v1h-1zM4 20h1v1h-1zM6 20h2v1h-2zM11 20h1v1h-1zM14 20h1v1h-1zM16 20h3v1h-3zM20 20h2v1h-2zM23 20h3v1h-3zM1 21h2v1h-2zM4 21h1v1h-1zM7 21h4v1h-4zM15 21h3v1h-3zM20 21h2v1h-2zM24 21h4v1h-4zM29 21h4v1h-4zM0 22h2v1h-2zM5 22h2v1h-2zM9 22h2v1h-2zM14 22h2v1h-2zM19 22h1v1h-1zM21 22h1v1h-1zM27 22h1v1h-1zM29 22h2v1h-2zM32 22h1v1h-1zM1 23h1v1h-1zM7 23h2v1h-2zM10 23h1v1h-1zM12 23h1v1h-1zM16 23h1v1h-1zM19 23h5v1h-5zM26 23h4v1h-4zM31 23h1v1h-1zM0 24h1v1h-1zM2 24h2v1h-2zM5 24h4v1h-4zM14 24h4v1h-4zM19 24h4v1h-4zM24 24h5v1h-5zM31 24h2v1h-2zM8 25h2v1h-2zM12 25h1v1h-1zM14 25h1v1h-1zM19 25h2v1h-2zM22 25h1v1h-1zM24 25h1v1h-1zM28 25h2v1h-2zM31 25h2v1h-2zM0 26h7v1h-7zM9 26h1v1h-1zM11 26h1v1h-1zM14 26h1v1h-1zM20 26h1v1h-1zM22 26h1v1h-1zM24 26h1v1h-1zM26 26h1v1h-1zM28 26h4v1h-4zM0 27h1v1h-1zM6 27h1v1h-1zM8 27h1v1h-1zM10 27h7v1h-7zM19 27h4v1h-4zM24 27h1v1h-1zM28 27h1v1h-1zM32 27h1v1h-1zM0 28h1v1h-1zM2 28h3v1h-3zM6 28h1v1h-1zM9 28h3v1h-3zM13 28h1v1h-1zM16 28h1v1h-1zM19 28h4v1h-4zM24 28h6v1h-6zM0 29h1v1h-1zM2 29h3v1h-3zM6 29h1v1h-1zM8 29h1v1h-1zM10 29h1v1h-1zM13 29h1v1h-1zM15 29h1v1h-1zM17 29h1v1h-1zM23 29h1v1h-1zM26 29h1v1h-1zM28 29h2v1h-2zM0 30h1v1h-1zM2 30h3v1h-3zM6 30h1v1h-1zM9 30h1v1h-1zM11 30h1v1h-1zM13 30h1v1h-1zM18 30h1v1h-1zM24 30h1v1h-1zM28 30h1v1h-1zM30 30h1v1h-1zM32 30h1v1h-1zM0 31h1v1h-1zM6 31h1v1h-1zM9 31h2v1h-2zM12 31h6v1h-6zM19 31h3v1h-3zM24 31h1v1h-1zM0 32h7v1h-7zM8 32h1v1h-1zM10 32h1v1h-1zM21 32h1v1h-1zM24 32h2v1h-2zM28 32h1v1h-1zM31 32h1v1h-1z" fill="#0D1140"/></g>
+  <text x="230" y="470" text-anchor="middle" font-size="22" font-weight="700" fill="#0D1140">These slides</text>
+  <text x="230" y="502" text-anchor="middle" font-size="15" fill="#6B7280">matejkus-edu.github.io/slaidy/erasmus-dig…</text>
+</svg></div><p class="note none">no note</p></div></div>
+</div></body></html>

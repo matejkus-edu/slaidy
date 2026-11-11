@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" font-family="inherit">
+  <g>
+    <rect x="20" y="40" width="270" height="300" rx="18" fill="#0D1140"/>
+    <text x="155" y="110" text-anchor="middle" font-size="64" font-weight="800" fill="#FFFFFF">1</text>
+    <text x="155" y="190" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF">Behind</text>
+    <text x="155" y="228" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF">the scenes</text>
+    <text x="155" y="290" text-anchor="middle" font-size="21" fill="#E1E3EA">admin · assessment</text>
+  </g>
+  <g data-step="1">
+    <rect x="320" y="40" width="270" height="300" rx="18" fill="#009AB1"/>
+    <text x="455" y="110" text-anchor="middle" font-size="64" font-weight="800" fill="#FFFFFF">2</text>
+    <text x="455" y="190" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF">Made</text>
+    <text x="455" y="228" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF">to measure</text>
+    <text x="455" y="290" text-anchor="middle" font-size="21" fill="#FFFFFF">materials · visuals</text>
+  </g>
+  <g data-step="2">
+    <rect x="620" y="40" width="270" height="300" rx="18" fill="#EB5D0B"/>
+    <text x="755" y="110" text-anchor="middle" font-size="64" font-weight="800" fill="#FFFFFF">3</text>
+    <text x="755" y="190" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF">In the students'</text>
+    <text x="755" y="228" text-anchor="middle" font-size="30" font-weight="700" fill="#FFFFFF">hands</text>
+    <text x="755" y="290" text-anchor="middle" font-size="21" fill="#FFFFFF">tools in the lesson</text>
+  </g>
+  <g data-step="3">
+    <rect x="920" y="40" width="260" height="300" rx="18" fill="#FBB900"/>
+    <text x="1050" y="110" text-anchor="middle" font-size="64" font-weight="800" fill="#0D1140">4</text>
+    <text x="1050" y="190" text-anchor="middle" font-size="30" font-weight="700" fill="#0D1140">Thinking</text>
+    <text x="1050" y="228" text-anchor="middle" font-size="30" font-weight="700" fill="#0D1140">through media</text>
+    <text x="1050" y="290" text-anchor="middle" font-size="21" fill="#0D1140">creating to understand</text>
+  </g>
+  <g data-step="4">
+    <line x1="40" y1="410" x2="1140" y2="410" stroke="#6B7085" stroke-width="4"/>
+    <polygon points="1170,410 1135,392 1135,428" fill="#6B7085"/>
+    <text x="40" y="465" font-size="24" fill="#6B7085">saves the teacher's time</text>
+    <text x="1160" y="465" text-anchor="end" font-size="24" fill="#6B7085">changes how students learn</text>
+  </g>
+</svg>
