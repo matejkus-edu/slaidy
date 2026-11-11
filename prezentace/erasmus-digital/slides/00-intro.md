@@ -1,12 +1,10 @@
 # Introduction
 
-### 1. `[S]` Beyond the Download
+### 1. `[S]` Creative Use of Technology & Media in the Classroom
 
 *Layout:* cover
 
-**Digital technologies and AI in everyday teaching**
-
-Matěj Kůs · Educanet Praha
+Mgr. Matěj Kůs · EDUCAnet Praha
 
 ### 2. `[S]` Who is talking to you
 
@@ -14,17 +12,17 @@ Matěj Kůs · Educanet Praha
 
 #### Me
 
-- Teacher of social sciences and film education
+- Teacher of humanities, social sciences and film education
 - Background in **philosophy, film studies and new media**
-- Workshops at the National Film Museum (NaFilM) and with AI dětem
+- Worked at the National Film Museum (NaFilM) and with AI dětem
 
 <!-- col -->
 
 #### What I teach
 
-- **Personality, Metaphysics & Creativity** — a bilingual subject, 15–17-year-olds
-- **Film & Audiovisual Education** — 13–15-year-olds
-- [TODO: H-GLC?]
+- **Personality, Metaphysics & Creativity** – a bilingual subject, 15–17-year-olds
+- **Global Citizenship** – a bilingual subject, 15–17-year-olds
+- **Film & Audiovisual Education** – 13–15-year-olds
 
 *Delivery note:* TODO (Matěj): krátké představení školy Educanet — bilingvní gymnázium + ZŠ, kolik žáků, jaké vybavení. Rozhodnout, jestli zmínit H-GLC.
 
@@ -51,18 +49,3 @@ Trojka: žáci s technologií přímo pracují.
 Čtyřka: tvorba skrze médium — žák látku uchopí tím, že v médiu něco vytvoří.
 <!-- step -->
 Šipka: čím víc doprava, tím víc jde o pedagogiku, ne o efektivitu.
-
-### 5. `[S]` A lens: SAMR
-
-| Level | What the technology does | Where it shows up today |
-|---|---|---|
-| **Substitution** | replaces a tool, nothing changes | a PDF instead of a printout |
-| **Augmentation** | same task, done better | grades sent automatically |
-| **Modification** | the task is redesigned | material made for this class |
-| **Redefinition** | a task that was impossible before | students build a character chatbot |
-
-> The aim is not more technology, but tasks we could not set before.
-
-*Skip:* yes
-
-*Delivery note:* Volitelný slajd — SAMR (Puentedura) je mezi Erasmus učiteli známý rámec. Pokud nebude čas, vynechat (je teď schovaný přes Skip).

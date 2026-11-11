@@ -1,12 +1,12 @@
 # Thinking through media
 
-### 21. `[S]` 4 · Thinking through media
+### 20. `[S]` 4 · Thinking through media
 
 > To make something in a medium, you have to understand what you are making it about.
 
 *Delivery note:* Nejdůležitější část — sem patří nejvíc času.
 
-### 22. `[S]` Why making works
+### 21. `[S]` Why making works
 
 - every medium **forces decisions**: what to show, what to leave out, in what order
 - decisions reveal understanding — or its absence
@@ -14,7 +14,7 @@
 
 *Delivery note:* Tady se opřít o vlastní zázemí — filmová studia a nová média: médium není neutrální kanál, tvaruje obsah. TODO (Matěj): případně citát / odkaz na teorii (McLuhan, konstrukcionismus — Papert?).
 
-### 23. `[S]` Case study: a concept on film
+### 22. `[S]` Case study: a concept on film
 
 *Layout:* two
 
@@ -33,7 +33,7 @@
 
 *Delivery note:* TODO (Matěj): zadání z H-PMC. Ideálně pustit 20–30 s ukázky (se souhlasem žáků).
 
-### 24. `[S]` Case study: prompting a character
+### 23. `[S]` Case study: prompting a character
 
 *Layout:* two
 
@@ -53,7 +53,7 @@
 
 *Delivery note:* TODO (Matěj): psychosociální rozbor fiktivní postavy — výstup se teprve chystá, doplnit, v jaké fázi je a co od toho čekám.
 
-### 25. `[S]` More ways to think through media
+### 24. `[S]` More ways to think through media
 
 - a short film made from start to finish
 - a personal web page as a portfolio
@@ -62,7 +62,7 @@
 
 *Delivery note:* TODO (Matěj): vybrat z FAV — krátký film, portfolio na webu. Smazat, co nedává smysl.
 
-### 26. `[S]` What makes it work
+### 25. `[S]` What makes it work
 
 - the task is about the **concept**, not the tool
 - assess the thinking, not the polish

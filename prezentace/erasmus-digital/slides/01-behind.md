@@ -1,8 +1,8 @@
 # Behind the scenes
 
-### 6. `[S]` 1 · Behind the scenes
+### 5. `[S]` 1 · Behind the scenes
 
-> The work nobody sees — and the hours it takes.
+> The work nobody sees – and the hours it takes.
 
 - administration
 - assessment and feedback
@@ -10,7 +10,7 @@
 
 *Delivery note:* Úvod do části 1: nejméně „sexy“, ale tady AI ušetří nejvíc času, který pak můžu dát žákům.
 
-### 7. `[S]` Case study: a gradebook that writes to every student
+### 6. `[S]` Case study: a gradebook that writes to every student
 
 *Layout:* two
 
@@ -18,8 +18,8 @@
 
 - one central sheet per class (Google Sheets)
 - a script copies each student's grades to **their own** sheet
-- e-mail notifications with a personal comment
 - a phone app logs **activity points during the lesson**
+- **e-mail notifications** with a personal comment are sent automatically
 
 <!-- col -->
 
@@ -33,7 +33,7 @@
 
 *Delivery note:* TODO (Matěj): screenshot tabulky a mobilní aplikace „Aktivity v hodině“ (anonymizovat jména!). Kolik času to ušetří týdně?
 
-### 8. `[S]` Case study: this presentation
+### 7. `[S]` Case study: this presentation
 
 - written as plain text, laid out by AI
 - in the school's visual style, every time
@@ -44,7 +44,7 @@
 
 *Delivery note:* Meta-moment: tahle prezentace vznikla přes SlAIdy. TODO (Matěj): přidat, jestli AI používám i na tematické plány / přípravy hodin, a jak.
 
-### 9. `[S]` Other things worth handing over
+### 8. `[S]` Other things worth handing over
 
 - first drafts of **feedback** on written work — the teacher edits and signs
 - **rubrics** and assessment criteria from learning goals
@@ -54,7 +54,7 @@
 
 *Delivery note:* TODO (Matěj): vybrat jen to, co opravdu dělám nebo jsem zkoušel; zbytek škrtnout.
 
-### 10. `[S]` Two rules I keep
+### 9. `[S]` Two rules I keep
 
 *Layout:* two
 

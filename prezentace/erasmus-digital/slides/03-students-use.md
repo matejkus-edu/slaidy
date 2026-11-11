@@ -1,10 +1,10 @@
 # In the students' hands
 
-### 16. `[S]` 3 · In the students' hands
+### 15. `[S]` 3 · In the students' hands
 
 > Students work with the technology themselves — as part of the method.
 
-### 17. `[S]` Case study: personality questionnaires on their phones
+### 16. `[S]` Case study: personality questionnaires on their phones
 
 *Layout:* two
 
@@ -26,7 +26,7 @@
 
 *Delivery note:* Napojení na blok Osobnost v PMC: typologie jsou konstrukty, užitečné, ale nikdy nevyčerpají jedinečnost člověka. TODO (Matěj): screenshot aplikace, odkaz/QR.
 
-### 18. `[S]` Case study: [TODO phones as voting devices — FAV game]
+### 17. `[S]` Case study: [TODO phones as voting devices — FAV game]
 
 - photos projected, every student guesses the author on their phone
 - points for being **recognisable, but not obvious**
@@ -34,7 +34,7 @@
 
 *Delivery note:* TODO (Matěj): hra z FAV na principu Dixitu — nechat, jen pokud proběhla. Jinak nahradit jiným příkladem (např. AI jako tutor / sparring partner přímo v hodině).
 
-### 19. `[S]` Case study: [TODO AI used directly by students]
+### 18. `[S]` Case study: [TODO AI used directly by students]
 
 - [TODO: task]
 - [TODO: what students did with the AI]
@@ -42,7 +42,7 @@
 
 *Delivery note:* TODO (Matěj): přímé použití AI žáky ve výuce. Pokud nemáš, můžu slajd smazat.
 
-### 20. `[S]` Ground rules for students
+### 19. `[S]` Ground rules for students
 
 - **Say** when and how you used AI
 - Keep your prompts — they are part of the work

@@ -1,10 +1,10 @@
 # Made to measure
 
-### 11. `[S]` 2 · Made to measure
+### 10. `[S]` 2 · Made to measure
 
 > Instead of searching for the right material — make it.
 
-### 12. `[S]` Downloaded vs. made to measure
+### 11. `[S]` Downloaded vs. made to measure
 
 | | Downloaded | Made to measure |
 |---|---|---|
@@ -16,7 +16,7 @@
 
 *Delivery note:* Hlavní argument části 2. Bilingvní výuka je silný příklad — materiál v obou jazycích se stejnou terminologií.
 
-### 13. `[S]` Case study: [TODO infographic / poster]
+### 12. `[S]` Case study: [TODO infographic / poster]
 
 *Layout:* two
 
@@ -34,7 +34,7 @@
 
 *Delivery note:* TODO (Matěj): sem první vlastní case study — infografika nebo plakát. Obrázek vložit do slajdu (＋ Figure → Picture).
 
-### 14. `[S]` Case study: [TODO second material]
+### 13. `[S]` Case study: [TODO second material]
 
 *Layout:* two
 
@@ -50,7 +50,7 @@
 
 *Delivery note:* TODO (Matěj): druhá case study — pracovní list, kvíz, ilustrace, mapa pojmů…? Pokud žádná další není, slajd smazat.
 
-### 15. `[S]` How I make it
+### 14. `[S]` How I make it
 
 1. Start from **my** learning goal and outline, not from the tool
 2. Let the AI draft text, layout or image
