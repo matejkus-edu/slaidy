@@ -1,50 +1,15 @@
 # In the students' hands
 
-### 15. `[S]` 3 · In the students' hands
+### 13. `[S]` 3 · In the students' hands
 
 > Students work with the technology themselves — as part of the method.
 
-### 16. `[S]` Case study: personality questionnaires on their phones
+### 14. `[S]` Case study: Learning Photography with an interactive web app
 
-*Layout:* two
-
-#### In the lesson
-
-- students fill in a personality questionnaire (HEXACO-60) on their phones
-- they get their own profile immediately
-- we use it to **discuss what a typology can and cannot say**
-
-<!-- col -->
-
-#### Behind it
-
-- a small web app I built with AI
-- free, no accounts, hosted on GitHub
-- [TODO: more questionnaires?]
-
-> The result is a "what", never a "who".
-
-*Delivery note:* Napojení na blok Osobnost v PMC: typologie jsou konstrukty, užitečné, ale nikdy nevyčerpají jedinečnost člověka. TODO (Matěj): screenshot aplikace, odkaz/QR.
-
-### 17. `[S]` Case study: [TODO phones as voting devices — FAV game]
-
-- photos projected, every student guesses the author on their phone
-- points for being **recognisable, but not obvious**
-- [TODO: tool, how it went]
+https://matejkus-edu.github.io/foto/
 
 *Delivery note:* TODO (Matěj): hra z FAV na principu Dixitu — nechat, jen pokud proběhla. Jinak nahradit jiným příkladem (např. AI jako tutor / sparring partner přímo v hodině).
 
-### 18. `[S]` Case study: [TODO AI used directly by students]
-
-- [TODO: task]
-- [TODO: what students did with the AI]
-- [TODO: what they learned that they wouldn't have otherwise]
+### 15. `[S]` Case study: Analysing an AI Character's psycho-social profile in a Psychology Class (by talking with it)
 
 *Delivery note:* TODO (Matěj): přímé použití AI žáky ve výuce. Pokud nemáš, můžu slajd smazat.
-
-### 19. `[S]` Ground rules for students
-
-- **Say** when and how you used AI
-- Keep your prompts — they are part of the work
-- AI is a **sparring partner**, not a ghostwriter
-- You are responsible for every sentence you hand in
