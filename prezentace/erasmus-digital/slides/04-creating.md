@@ -25,9 +25,9 @@
 
 #### The task
 
-- students analyse a fictional character: personality, relationships, communication
+- students create a fictional character: personality traits, relationships, communication style
 - then they **write the instructions for a chatbot** that plays the character
-- classmates interview the bot
+- classmates interview the bot and try to analyse the character (then they compare with the original instructions)
 
 <!-- col -->
 
@@ -37,9 +37,3 @@
 - the analysis becomes **testable**: does the bot behave like the character?
 
 *Delivery note:* TODO (Matěj): psychosociální rozbor fiktivní postavy — výstup se teprve chystá, doplnit, v jaké fázi je a co od toho čekám.
-
-### 20. `[S]` What makes it work
-
-- the task is about the **concept**, not the tool
-- assess the thinking, not the polish
-- always end with **reflection**: what did making it teach you?

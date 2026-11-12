@@ -1,6 +1,6 @@
 # Wrap-up
 
-### 21. `[S]` Thank you
+### 20. `[S]` Thank you
 
 *Layout:* closing
 
